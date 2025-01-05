@@ -31,6 +31,7 @@ there are lot of videos for linking sdl2 in visual studio
 
 you can also use visual studio
 just download its include and library files
+
 include them and link them and click run
 
 
